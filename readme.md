@@ -1,5 +1,5 @@
 # Busca Noticiais
-Este programa é útil para pessoas que desejam acompanhar notícias em tempo real sobre uma localização específica e pode ser personalizado para atender às necessidades individuais. Certifique-se de que sua chave de API do News API esteja ativa e funcional para que o programa funcione corretamente.
+ sobre uma localização específica e pode ser personalizado para atender às necessidades individuais. Certifique-se de que sua chave de API do News API esteja ativa e funcional para que o programa funcione corretamente.
 O número exato de notícias retornadas depende dos limites da sua conta gratuita no News API. Certifique-se de que sua chave de API seja válida e que o número de notícias retornadas esteja dentro dos limites da sua conta.
 
 ## Autores
