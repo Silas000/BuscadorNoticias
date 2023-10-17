@@ -60,4 +60,7 @@ O número exato de notícias retornadas depende dos limites da sua conta gratuit
 
 Lembre-se de que o número exato de notícias retornadas depende dos limites da sua conta gratuita no News API. Se você desejar personalizar a quantidade de notícias retornadas, pode fazer modificações no script `noticias.py` de acordo com suas necessidades. Certifique-se de que sua chave de API seja válida e que o número de notícias retornadas esteja dentro dos limites da sua conta.
 
-<center><img src="relative/path/in/repository/to/image.svg"/></center>
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/dZUM6Er.png)
