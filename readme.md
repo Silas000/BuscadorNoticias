@@ -1,5 +1,5 @@
 # Busca Noticiais
- sobre uma localização específica e pode ser personalizado para atender às necessidades individuais. Certifique-se de que sua chave de API do News API esteja ativa e funcional para que o programa funcione corretamente.
+Este código é um programa Python que utiliza a biblioteca `newsapi-python` para buscar notícias em tempo real sobre uma localização específica. O usuário fornece uma chave de API válida do News API, que é um serviço que oferece acesso a uma grande variedade de fontes de notícias online. O programa permite que o usuário especifique a localização desejada (cidade ou estado) e exibirá o número padrão de notícias retornadas com base na configuração gratuita da conta do News API. O número exato de notícias pode variar de acordo com a sua conta gratuita.
 O número exato de notícias retornadas depende dos limites da sua conta gratuita no News API. Certifique-se de que sua chave de API seja válida e que o número de notícias retornadas esteja dentro dos limites da sua conta.
 
 ## Autores
@@ -8,8 +8,6 @@ O número exato de notícias retornadas depende dos limites da sua conta gratuit
 
 ## Referência
  - [NewsApi](https://newsapi.org/docs)
-
-Este código é um programa Python que utiliza a biblioteca `newsapi-python` para buscar notícias em tempo real sobre uma localização específica. O usuário fornece uma chave de API válida do News API, que é um serviço que oferece acesso a uma grande variedade de fontes de notícias online. O programa permite que o usuário especifique a localização desejada (cidade ou estado) e exibirá o número padrão de notícias retornadas com base na configuração gratuita da conta do News API. O número exato de notícias pode variar de acordo com a sua conta gratuita.
 
 **Campos Necessários para Funcionamento:**
 
